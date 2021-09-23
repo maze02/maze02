@@ -1,7 +1,7 @@
 Hey there 👋, 
 I'm Maria, a front-end developer based in Barcelona.
 
-<img align="right" width="auto" height="350" src="/assets/coding.jpg">
+<img align="right" width="auto" height="200" src="/assets/coding.jpg">
 
 #### Current Projects
 
