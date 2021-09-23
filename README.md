@@ -11,5 +11,3 @@ I'm Maria, a front-end developer based in Barcelona.
 - 💬 Ask me about React, React Hooks and React Router.
 - ⚡ Fun fact: On a Sunday, you'll find me at a contemporary art gallery or if it's autumn, picking red pine mushrooms in a forest.
 
-
-
