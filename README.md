@@ -1,7 +1,9 @@
-### Hi there 👋, I'm Maria, a front-end developer based in Barcelona.
+Hey there 👋, 
+I'm Maria, a front-end developer based in Barcelona.
 
+<img align="right" width="auto" height="350" src="/assets/coding.jpg">
 
-### These days...
+#### Current Projects
 
 - 🔭 I’m working on a language exchange application using React and Redux.
 - 🌱 I’m currently learning Typescript.
