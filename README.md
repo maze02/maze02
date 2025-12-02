@@ -1,5 +1,5 @@
 Hey there 👋, 
-I'm Maria, a front-end developer based in Barcelona.
+I'm Maria, a fullstack front leaning web apps engineer based in Barcelona.
 
 <img align="right" width="auto" height="200" src="/assets/coding.jpg">
 
